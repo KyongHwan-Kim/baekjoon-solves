@@ -1,0 +1,18 @@
+
+[
+    {
+        "name" : "test1",
+        "input" : "input.txt",
+        "output" : "output.txt"
+    },
+    {
+        "name" : "test2",
+        "input" : "input.txt",
+        "output" : "output.txt"
+    },
+    {
+        "name" : "test3",
+        "input" : "input.txt",
+        "output" : "output.txt"
+    }
+]
